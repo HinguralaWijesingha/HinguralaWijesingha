@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hingurala Wijesingha
+# Hi 👋, I'm Anjitha Wijesinghe
 
 ### A passionate mobile app developer from Sri Lanka
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 🔭 I'm currently working on **Touch Me**  
+- 🔭 I'm currently working on **VVH Solutions**  
 - 🌱 I'm currently learning **React.js, Node.js**  
 - 📫 How to reach me: **anjithaushara01@gmail.com**
 
