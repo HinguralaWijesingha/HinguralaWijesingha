@@ -1,88 +1,109 @@
+# Anjitha Wijesinghe
+
+**Mobile Application Developer | Computer Science Undergraduate**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=HinguralaWijesingha&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/HinguralaWijesingha?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate mobile application developer from Sri Lanka, specializing in cross-platform development with Flutter and modern web technologies. Currently pursuing my **BSc (Hons) Computer Science** degree while gaining hands-on experience in the industry.
+
+- 🏢 **Currently working at:** VVH Solutions
+- 🎓 **Education:** Undergraduate in BSc (Hons) Computer Science
+- 🌱 **Currently learning:** React.js, Node.js, Advanced Mobile Development
+- 🎯 **Focus areas:** Mobile App Development, Full-Stack Web Development
+- 📍 **Location:** Sri Lanka
+- 📧 **Contact:** anjithaushara01@gmail.com
+
+---
+
+## 🛠️ Technical Skills
+
+### **Mobile Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+### **Web Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+### **Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### **Database & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### **Tools & Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/logo.png" alt="Logo" width="120" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Anjitha Wijesinghe</h1>
-<h3 align="center">A Passionate Mobile App Developer from Sri Lanka</h3>
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=HinguralaWijesingha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HinguralaWijesingha&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a> 
+  <img src="https://github-profile-trophy.vercel.app/?username=HinguralaWijesingha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 📊 GitHub Analytics
 
-- 🎓 Undergraduate in **BSc (Hons) Computer Science**  
-- 🔭 Currently working at **VVH Solutions**  
-- 🌱 Exploring **React.js** & **Node.js**  
-- 💡 Passionate about building **scalable mobile & web apps**  
-- 📫 Reach me at: **anjithaushara01@gmail.com**
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HinguralaWijesingha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinguralaWijesingha&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HinguralaWijesingha&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🌐 Connect with Me  
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/anjitha-wijesinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anjithaushara01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/HinguralaWijesingha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools  
+<div align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
 
-<p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HinguralaWijesingha&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinguralaWijesingha&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HinguralaWijesingha&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+  **Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
+  
+</div>
